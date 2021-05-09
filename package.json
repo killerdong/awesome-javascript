@@ -6,7 +6,7 @@
   "author": "서동우 <sdw1211@gmail.com>",
   "license": "MIT",
   "dependencies": {
-    "lodash": "^4.17.11",
+    "lodash": "^4.17.21",
     "node-fetch": "^2.6.0"
   },
   "devDependencies": {
